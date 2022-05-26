@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pwd" > README.md
+pwd
