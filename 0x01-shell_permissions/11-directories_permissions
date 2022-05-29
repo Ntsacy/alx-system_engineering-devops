@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod dir0 
+chmod ug+xr,o+x dir0 
