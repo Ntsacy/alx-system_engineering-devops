@@ -1,0 +1,2 @@
+#!/bin/bash
+sorted < file > sorted_file
